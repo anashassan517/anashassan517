@@ -49,3 +49,7 @@ I'm pursuing a bachelor's in computer science at the FAST National University of
 <a href="http://www.github.com/anashassan517"><img src="https://activity-graph.herokuapp.com/graph?username=anashassan517&bg_color=22272e&color=ffffff&line=ffffff&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/anashassan517" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashassan517&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
