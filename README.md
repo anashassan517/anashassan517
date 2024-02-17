@@ -7,7 +7,7 @@ Data Scientist | ML/DL | Python C/C++
 I'm pursuing a bachelor's in computer science at the FAST National University of Computer and Emerging Sciences. I have a great interest in learning and improving my skills in Software Engineering. Data Engineering, ML/Dl and Neural Networks with a year of experience. I'm eager to learn new skills so that I may compete in the developing market. I am interested in gaining experience in many development disciplines, such as Data Science, Web Development, ML/DL, etc., in order to gain experience in it. I'm looking for a job or business where I can use my training and abilities to help the organisation achieve its goals. I'm looking for a job opportunity that will enable me to succeed more practically in the software sector.
 
 *   🌍  I'm based in Karachi
-*   🖥️  See my portfolio at [My Portfolio](http://anashassan517.wixsite.com/portfolio)
+*   🖥️  See my portfolio at [My Portfolio](https://anashassan517.github.io/)
 *   ✉️  You can contact me at [anashassan517@gmail.com](mailto:anashassan517@gmail.com)
 *   🚀  I'm currently working on [The Spark Foundation as Data Science and Business Analytics Intern](http://www.thesparksfoundationsingapore.org/)
 *   🧠  I'm learning Data Science ML/DL, and Web
