@@ -1,51 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is M. Anas Hassan
-======================================================================================================================================
+<h1 align="center">Hi, I'm Anas Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A Passionate Software Engineer</h3>
 
-Data Scientist | ML/DL | Python C/C++
--------------------------------------
-
-I'm pursuing a bachelor's in computer science at the FAST National University of Computer and Emerging Sciences. I have a great interest in learning and improving my skills in Software Engineering. Data Engineering, ML/Dl and Neural Networks with a year of experience. I'm eager to learn new skills so that I may compete in the developing market. I am interested in gaining experience in many development disciplines, such as Data Science, Web Development, ML/DL, etc., in order to gain experience in it. I'm looking for a job or business where I can use my training and abilities to help the organisation achieve its goals. I'm looking for a job opportunity that will enable me to succeed more practically in the software sector.
-
-*   🌍  I'm based in Karachi
-*   🖥️  See my portfolio at [My Portfolio](https://anashassan517.github.io/)
-*   ✉️  You can contact me at [anashassan517@gmail.com](mailto:anashassan517@gmail.com)
-*   🚀  I'm currently working on [The Spark Foundation as Data Science and Business Analytics Intern](http://www.thesparksfoundationsingapore.org/)
-*   🧠  I'm learning Data Science ML/DL, and Web
-*   🤝  I'm open to collaborating on different types of projects related to App/Web, Data Science, Machine and Deep Learning
-*   ⚡  Ask me about C, C++, MySQL | AI/ML/DL | Data Science Tech | Speed Programming
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<p align="center">
+  <a href="https://github.com/anashassan517"><img src="https://img.shields.io/github/followers/anashassan517?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://linkedin.com/in/muhammad-anas-hassan3"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-anas-hassan3" alt="LinkedIn"></a>
+  <a href="mailto:anashassan517@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anashassan517@gmail.com" alt="Email"></a>
+  <a href="https://anashassan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://medium.com/@anashassan517"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
 </p>
 
-### Socials
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-<p align="left"> <a href="https://www.github.com/anashassan517" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-anas-hassan-3b8a37208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18005253/anas-hassan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-### Badges
+## 🧑‍💻 About Me
+I am currently in my final semester at FAST University, pursuing a Bachelor's degree in Computer Science. As a Software Engineer at XGen Technology, I specialize in Python, MERN stack, and diverse projects, from developing NLP chatbots to full-stack web development. I have a keen interest in solving complex problems and continuously enhancing my skills through learning and hands-on experience.
 
-<b>My GitHub Stats</b>
+## 🛠️ Skills
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</p>
 
-<a href="http://www.github.com/anashassan517"><img src="https://github-readme-stats.vercel.app/api?username=anashassan517&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="anashassan517's GitHub stats" /></a>
+## 🏢 Professional Experience
 
-<a href="http://www.github.com/anashassan517"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anashassan517&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Software Engineer at XGen Technology
+- Python, MERN stack web development
+- RESTful API implementation
+- Developing and fine-tuning NLP chatbots with OpenAI and Gemini
+- Conducting code reviews and maintenance
 
-<a href="http://www.github.com/anashassan517"><img src="https://activity-graph.herokuapp.com/graph?username=anashassan517&bg_color=22272e&color=ffffff&line=ffffff&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Software Engineer Intern at Zenkoders
+- Developed responsive UIs using Next.js, React.js, and Material UI
+- Integrated APIs for real-time data synchronization
+- Optimized page load times with efficient code practices
 
-<a href="https://github.com/anashassan517" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashassan517&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Data Science and Business Analytics Intern at The Sparks Foundation
+- Worked on supervised machine learning models
+- Tech Stack: Python, TensorFlow, scikit-learn
+
+## 🎓 Education
+- **Bachelor of Computer Science**  
+  FAST University, 2020 - Present, Karachi, Pakistan
+- **Pre Engineering**  
+  Adamjee Government Science College, 2018 - 2020, Karachi, Pakistan
+- **Matriculation**  
+  Akbar Public School, 2005 - 2018, Karachi, Pakistan
+
+## 💡 Projects
+
+### [ProtecTa](https://github.com/your-github/protecta)
+- Led the development of "ProtecTa," a state-of-the-art Multi-Factor Authenticator App
+- Streamlined user registration with email, password, facial, signature, and biometric fingerprint enrollment
+- Implemented robust login with multi-factor validation for secure access
+- Aiming to integrate "ProtecTa" as a third-party service for banking and secure transactions
+
+### [Info Senior Care Bot](https://github.com/your-github/info-senior-care-bot)
+- Developed a customized chatbot for Info Senior Care, enabling users to access company details and filter care options
+- Integrated a database of 16,000+ records for seamless searching and filtering
+- Utilized LLM to enhance user experience
+
+### [Realtime Fire Detection](https://github.com/your-github/realtime-fire-detection)
+- Working on a classification model for fire detection using deep learning approaches with CNN or YOLO
+
+
+
+## 📈 GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=anashassan517&show_icons=true&theme=radical" alt="Anas's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashassan517&theme=radical" alt="Anas's GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashassan517&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://activity-graph.herokuapp.com/graph?username=anashassan517&bg_color=22272e&color=ffffff&line=ffffff&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anashassan517&column=4&theme=radical" alt="Anas's GitHub Trophies">
+  <img src="https://komarev.com/ghpvc/?username=anashassan517&theme=radical" alt="Anas's GitHub Profile Views">
+</p>
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-anas-hassan3)
+- [Email](mailto:anashassan517@gmail.com)
+- [Personal Website](https://anashassan.vercel.app/)
+- [Medium](https://medium.com/@anashassan517)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anashassan517&style=flat-square&color=blue" alt="Profile Views">
+</p>
