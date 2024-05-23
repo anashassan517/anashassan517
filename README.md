@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anas Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/anashassan517"><img src="https://img.shields.io/github/followers/anashassan517?label=Followers&style=social" alt="GitHub Followers"></a>
@@ -54,18 +54,18 @@ I am currently in my final semester at FAST University, pursuing a Bachelor's de
 
 ## 💡 Projects
 
-### [ProtecTa](https://github.com/your-github/protecta)
+### [ProtecTa](https://github.com/anashassan517)
 - Led the development of "ProtecTa," a state-of-the-art Multi-Factor Authenticator App
 - Streamlined user registration with email, password, facial, signature, and biometric fingerprint enrollment
 - Implemented robust login with multi-factor validation for secure access
 - Aiming to integrate "ProtecTa" as a third-party service for banking and secure transactions
 
-### [Info Senior Care Bot](https://github.com/your-github/info-senior-care-bot)
+### [Info Senior Care Bot](https://github.com/anashassan517/info-senior-Bot)
 - Developed a customized chatbot for Info Senior Care, enabling users to access company details and filter care options
 - Integrated a database of 16,000+ records for seamless searching and filtering
 - Utilized LLM to enhance user experience
 
-### [Realtime Fire Detection](https://github.com/your-github/realtime-fire-detection)
+### [Realtime Fire Detection](https://github.com/anashassan517/fire-detection-YOLOv5)
 - Working on a classification model for fire detection using deep learning approaches with CNN or YOLO
 
 
@@ -75,10 +75,8 @@ I am currently in my final semester at FAST University, pursuing a Bachelor's de
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=anashassan517&show_icons=true&theme=radical" alt="Anas's GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashassan517&theme=radical" alt="Anas's GitHub streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashassan517&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://activity-graph.herokuapp.com/graph?username=anashassan517&bg_color=22272e&color=ffffff&line=ffffff&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=anashassan517&column=4&theme=radical" alt="Anas's GitHub Trophies">
-  <img src="https://komarev.com/ghpvc/?username=anashassan517&theme=radical" alt="Anas's GitHub Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashassan517&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🌐 Connect with Me
