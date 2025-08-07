@@ -1,25 +1,24 @@
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=435&lines=Muhammad+Anas+Hassan;Data+Scientist+%26+AI+Engineer;Machine+Learning+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=550&lines=Muhammad+Anas+Hassan;Data+Scientist+%26+AI+Engineer;Machine+Learning+Specialist" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://github.com/anashassan517?tab=followers">
-      <img src="https://img.shields.io/github/followers/anashassan517?label=Followers&style=social" alt="GitHub Followers">
+      <img src="https://img.shields.io/github/followers/anashassan517?label=Followers&style=social" alt="GitHub Followers  ">
     </a>
     <a href="https://linkedin.com/in/muhammad-anas-hassan3">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn  -0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn  ">
     </a>
     <a href="mailto:anashassan517@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://anashassan.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-00FFA9?style=flat-square&logo=Safari&logoColor=black" alt="Portfolio">
+    <a href="https://anashassan.up.railway.app/">
+      <img src="https://img.shields.io/badge/My Portfolio Website -00FFA9?style=flat-square&logo=Safari&logoColor=black" alt="Portfolio">
     </a>
     <a href="https://medium.com/@anashassan517">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium">
+      <img src="https://img.shields.io/badge/Medium  -12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=anashassan517&style=flat-square&color=00FFA9" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=anashassan517&style=flat-square&color=00FFA9" alt="Profile Views  ">
   </p>
 
   <img src="https://github-profile-trophy.vercel.app/?username=anashassan517&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" width="100%">
