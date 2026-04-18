@@ -78,7 +78,7 @@ Shipping production AI across customer, employee, compliance, and e-commerce cha
 - Built LLM-integrated chatbot with text-to-SQL over a 16,000+ record database (AWS)
 - Full-stack delivery with React.js + Django + Flask/FastAPI
 
-### **Software Engineer Intern | Zenkoders**
+### **Software Engineer | Zenkoders**
 *June 2023 – August 2023*
 - Built responsive Next.js/React UIs with Flask REST API integration
 
