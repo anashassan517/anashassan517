@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=650&lines=Muhammad+Anas+Hassan;Team+Lead+%E2%80%93+GenAI+%40+Bank+Alfalah;Assistant+Manager+%E2%80%93+Data+Scientist;Generative+AI+%7C+Agentic+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+MLOps+%7C+Azure+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=700&lines=Muhammad+Anas+Hassan;Team+Lead+%E2%80%93+GenAI+%40+Bank+Alfalah;Assistant+Manager+%E2%80%93+Data+Scientist;LLMs+%7C+RAG+%2F+Fine-tuning+%7C+Agentic+AI;Computer+Vision+%7C+Azure+AI+%7C+vLLM" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://github.com/anashassan517?tab=followers">
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer** currently serving as **Team Lead – GenAI Department** at **Bank Alfalah Limited**, with the grade of **Assistant Manager – Data Scientist**. I design and ship **production-grade AI systems** at enterprise scale across **LLMs, Agentic AI, Computer Vision, RAG, and Recommendation Systems** — in regulated banking environments on the **Microsoft Azure AI ecosystem**.
+I'm an **AI Engineer** currently serving as **Team Lead – GenAI Department** at **Bank Alfalah Limited**, with the grade of **Assistant Manager – Data Scientist**. I design and ship **production-grade AI systems** at enterprise scale across **LLMs, LLM fine-tuning (LoRA / QLoRA), Agentic AI, Hybrid RAG with rerankers, Computer Vision, Voice AI (Whisper + ElevenLabs), and Recommendation Systems** — with evaluation via **RAGAS**, observability via **Langfuse**, and safety via **Guardrails**. Deployments run on the **Microsoft Azure AI ecosystem** for regulated banking, and on **self-hosted open-source stacks (vLLM · RunPod · NVIDIA A6000)** for data-resident international engagements.
 
 - 🚀 Currently leading the bank's **Generative AI function** end-to-end
 - 🏆 Recipient of the **CEO Award** (Generative AI bank-wide initiative), **2× Dream Team – Data Scientist Award**, and **2× Dream Team – RPA Award**
@@ -57,20 +57,29 @@ I'm an **AI Engineer** currently serving as **Team Lead – GenAI Department** a
 Shipping production AI across customer, employee, compliance, and e-commerce channels on the **Azure AI ecosystem** (Azure AI Foundry, Azure AI Search, Azure OpenAI).
 
 **Flagship production deliveries:**
-- 🎯 **Premier Customer Recognition (Multi-City Live)** — Real-time CV system deployed in Karachi, Lahore & Islamabad Premier lounges; automated customer + Relationship Manager notifications on arrival
+- 🎯 **Premier Customer Recognition (Multi-City Live)** — End-to-end real-time CV system on **NVIDIA Triton Inference Server + TensorRT (A100 GPU)**, with centralized facial-embedding management backed by **FAISS**. Live in Karachi, Lahore & Islamabad Premier lounges; automated customer + Relationship Manager notifications on arrival
 - 💬 **AI WhatsApp Channel Chatbot** — Bank Alfalah's first official AI-powered customer-facing WhatsApp channel
 - 🤖 **Agentic AI HR Chatbot** — Bank's first Oracle-integrated agentic HR assistant with role- and context-aware personalization
 - 🛒 **AlfaMall Recommender** — Hybrid engine (collaborative + content-based + real-time signals); **22% conversion uplift**
-- 🛡️ **ATM Anomaly Detection** — YOLOv11 + TensorRT + NVIDIA Triton across **150+ ATMs**; **65% latency reduction** (600ms → <100ms)
+- 🛡️ **ATM Anomaly Detection** — YOLOv11 + TensorRT + NVIDIA Triton across **150+ ATMs**; **65% latency reduction** (600ms → <100ms) on RTX 4090
 - 📄 **Vision-LLM OCR Engine** — Pan-Pakistan bank-statement extraction; **~80% manual effort eliminated**
-- 💼 **Enterprise RAG Chatbots** — Compliance, Retail, SBP Regulatory, Alfa Nova Customer Support, Branch Knowledge Portal, ProcessXpert Retail Assistant; **90% first-contact resolution**
+- 💼 **Enterprise RAG Chatbot Suite** — **Hybrid RAG** (dense + sparse + rerankers) on LangChain + LangGraph + FAISS + OCR + **vLLM-served Qwen**, integrated with enterprise source systems. Compliance bot wired into the **SBP regulatory portal** to auto-ingest new circulars. Covers: Compliance, Retail, Branch Knowledge Portal, Alfa Nova Customer Support, ProcessXpert Retail Assistant. **Evaluated with RAGAS · traced with Langfuse · safety via Guardrails.** **90% first-contact resolution**
+- 🎤 **Voice-Enabled AI Assistants** — Real-time voice agents using **Whisper (STT) + LLMs + ElevenLabs (TTS)** for natural, conversational interactions
+- 🔧 **LLM Fine-tuning** — Open-source LLM adaptation with **LoRA / QLoRA** for on-prem and data-resident use cases
 
 ### **AI Engineering Consultant (Contract, under NDA)**
 *Remote · Sweden · Denmark · Norway · Netherlands · 2024 – Present*
 
+Several engagements run on **self-hosted open-source stacks (RunPod + NVIDIA RTX A6000 48GB)** specifically to keep sensitive clinical and customer data off third-party cloud inference endpoints.
+
+- **InCntrl — Medical AI Platform** 🏥
+  - Clinical AI agents for **doctor-appointment scheduling** and **real-time transcription of full doctor-patient consultations**
+  - **Fine-tuned open-source LLMs with LoRA / QLoRA** for medical terminology, preserving data confidentiality
+  - Inference on **NVIDIA RTX A6000 (48GB)** via **RunPod**, serving with **vLLM** + **BAAI Rerankers**
+  - **Self-hosted Whisper** STT (no external API) for HIPAA-style confidentiality
+  - Integrated with **multiple platform systems** (EHR, scheduling, clinical workflow)
+  - **Guardrails + Langfuse** for safety & observability
 - **Kinnfor** — Multi-tenant AI assistant platform (tenant-isolated security & compliance)
-- **InCntrl** — Medical-domain AI agent for clinical workflow automation
-- **Arbo AI** — Production AI system (NDA)
 - **Infosenior Care** — End-to-end eldercare AI platform (live at [infosenior.care](https://infosenior.care))
 
 ### **Software Engineer | Matz Solutions**
@@ -78,7 +87,7 @@ Shipping production AI across customer, employee, compliance, and e-commerce cha
 - Built LLM-integrated chatbot with text-to-SQL over a 16,000+ record database (AWS)
 - Full-stack delivery with React.js + Django + Flask/FastAPI
 
-### **Software Engineer | Zenkoders**
+### **Software Engineer Intern | Zenkoders**
 *June 2023 – August 2023*
 - Built responsive Next.js/React UIs with Flask REST API integration
 
@@ -99,8 +108,39 @@ Shipping production AI across customer, employee, compliance, and e-commerce cha
       <img src="https://img.shields.io/badge/vLLM-30A14E?style=for-the-badge&logo=llvm&logoColor=white">
       <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/RAG-00FFAA?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Hybrid%20RAG-00FFAA?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Rerankers-FF4081?style=for-the-badge">
       <img src="https://img.shields.io/badge/Agentic%20AI-7B2CBF?style=for-the-badge">
+      <img src="https://img.shields.io/badge/BERT-FFA500?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>LLM Fine-tuning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LoRA-FF6B35?style=for-the-badge">
+      <img src="https://img.shields.io/badge/QLoRA-FF3366?style=for-the-badge">
+      <img src="https://img.shields.io/badge/PEFT-8A2BE2?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Transformers-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black">
+      <img src="https://img.shields.io/badge/Open--Source%20LLMs-00C7B7?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>LLM Ops & Safety</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAGAS-00A0DC?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Langfuse-1E1E2E?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Guardrails-E53935?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Evaluation-6A1B9A?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Voice & Conversational AI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Real--Time%20Voice%20Agents-00BFA5?style=for-the-badge">
+      <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge">
     </td>
   </tr>
   <tr>
@@ -165,6 +205,16 @@ Shipping production AI across customer, employee, compliance, and e-commerce cha
     </td>
   </tr>
   <tr>
+    <td align="center"><strong>GPU & Infra</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/NVIDIA%20A100-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+      <img src="https://img.shields.io/badge/NVIDIA%20A6000%20(48GB)-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+      <img src="https://img.shields.io/badge/RTX%204090-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+      <img src="https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge">
+      <img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    </td>
+  </tr>
+  <tr>
     <td align="center"><strong>MLOps & Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
@@ -181,13 +231,22 @@ Shipping production AI across customer, employee, compliance, and e-commerce cha
 ## 🤖 Featured AI/ML Projects
 
 #### 🏦 Enterprise GenAI Suite — Bank Alfalah *(Production)*
-- **Tech:** Azure AI Foundry, Azure AI Search, Azure OpenAI, LangChain, LangGraph, FAISS, vLLM, Oracle integration
-- **Scope:** Agentic HR Chatbot (Oracle-integrated), AI WhatsApp Channel, Alfa Nova Customer Support, SBP Compliance Chatbot, AI Knowledge Portal, ProcessXpert Retail Assistant
-- **Impact:** 90% first-contact resolution across enterprise chatbots, first official customer-facing AI channel at the bank, CEO Award recipient
+- **Tech:** Azure AI Foundry · Azure AI Search · Azure OpenAI · LangChain · LangGraph · FAISS · **Hybrid RAG + Rerankers** · vLLM-served **Qwen** · Oracle integration · SBP portal integration
+- **Evaluation & Safety:** **RAGAS** (RAG evaluation) · **Langfuse** (LLM tracing & observability) · **Guardrails** (output safety)
+- **Scope:** Agentic HR Chatbot (Oracle-integrated), AI WhatsApp Channel, Alfa Nova Customer Support, Compliance Chatbot, AI Knowledge Portal, ProcessXpert Retail Assistant
+- **Key integration:** Compliance bot is directly wired into the **State Bank of Pakistan (SBP) regulatory portal** to auto-ingest new circulars, keeping policy answers current without manual refresh
+- **Impact:** 90% first-contact resolution across enterprise chatbots · Bank's first official customer-facing AI channel · CEO Award recipient
+
+#### 🏥 AddoAI Medical AI Platform *(Production · Europe · NDA)*
+- **Tech:** **vLLM** · **LoRA / QLoRA Fine-tuned open-source LLMs** · **BAAI Re-rerankers** · **Whisper (self-hosted STT)** · **NVIDIA RTX A6000 (48GB)** on **RunPod** · LangChain · Guardrails · Langfuse
+- **Features:** Clinical AI agents for doctor-appointment scheduling · Real-time transcription of full doctor-patient consultations · Integrated with multiple platform systems (EHR, scheduling, clinical workflow)
+- **Data confidentiality:** Fully self-hosted inference stack — no data leaves the controlled environment
+- **Impact:** Production-deployed under NDA for a European medical platform
 
 #### 🎯 Premier Customer Recognition System *(Production · Multi-City)*
-- **Tech:** InsightFace, DeepFace, Computer Vision, Real-time inference, Notification pipeline
-- **Features:** Real-time facial recognition at Premier lounge entry; automated alerts to customer + Relationship Manager
+- **Tech:** **NVIDIA Triton Inference Server** + **TensorRT** on **A100 GPU** · InsightFace · **FAISS**-backed centralized embedding store · Notification pipeline
+- **Scope:** End-to-end ownership — from Triton model configuration and embedding-store design to production rollout and ongoing management
+- **Features:** Real-time facial recognition at Premier lounge entry; automated alerts to customer + Relationship Manager on arrival
 - **Impact:** Deployed live across Karachi, Lahore, and Islamabad Premier lounges
 
 #### 📄 Vision-LLM OCR Engine *(Production)*
@@ -196,7 +255,7 @@ Shipping production AI across customer, employee, compliance, and e-commerce cha
 - **Impact:** Eliminated ~80% manual effort · 92% extraction accuracy · hours → minutes
 
 #### 🛡️ Real-Time ATM Anomaly Detection *(Production · 150+ ATMs)*
-- **Tech:** YOLOv11, TensorRT, NVIDIA Triton, GStreamer, Django, InsightFace
+- **Tech:** YOLOv11 · TensorRT · NVIDIA Triton · GStreamer · Django · InsightFace
 - **Features:** Helmet/bag/loitering detection, culprit recognition, real-time alerts
 - **Impact:** 65% latency reduction (600ms → <100ms) on RTX 4090
 
@@ -210,10 +269,10 @@ Shipping production AI across customer, employee, compliance, and e-commerce cha
 - **Features:** Mixture-of-Experts agent-to-agent communication; specialized agents for frontend UI, image generation, code debugging, backend generation
 - **Impact:** End-to-end website generation from a single prompt
 
-#### 👁️ Real-Time Gaze Tracking + Conversational Reading System
-- **Tech:** Python, OpenCV, LLMs, Whisper (STT), ElevenLabs (TTS)
-- **Features:** Low-latency gaze estimation; conversational reading companion over PDFs with contextual definitions
-- **Impact:** Natural, voice-driven reading assistant
+#### 👁️ Real-Time Gaze Tracking + Conversational Reading System *(Voice AI)*
+- **Tech:** Python · OpenCV · LLMs · **Whisper (STT)** · **ElevenLabs (TTS)** · Real-time voice agent pipeline
+- **Features:** Low-latency gaze estimation; conversational reading companion over PDFs with contextual definitions powered by LLM + STT/TTS
+- **Impact:** Voice-driven, gaze-aware reading assistant — reference architecture for real-time voice-enabled AI agents
 
 #### 🔐 ProtecTa — Multi-Factor Biometric Authentication *(FYP, Award-Winning)*
 - **Tech:** Python, React Native, Flask, Azure, OpenCV, InsightFace
